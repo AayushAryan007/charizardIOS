@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: Charizard
+  m_EditorClassIdentifier: Unity.XR.ARSubsystems::UnityEngine.XR.ARSubsystems.XRReferenceImageLibrary
+  m_GuidLow: 5684266471156467420
+  m_GuidHigh: 17007499701818324918
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5399865139385826228
+      m_GuidHigh: 2190556202058747547
+    m_SerializedTextureGuid:
+      m_GuidLow: 7269363414397356015
+      m_GuidHigh: 4031489335060271290
+    m_Size: {x: 0.26, y: 0.14625}
+    m_SpecifySize: 1
+    m_Name: Download-free-Pokemon-Charizard-HD-desktop-background
+    m_Texture: {fileID: 0}
